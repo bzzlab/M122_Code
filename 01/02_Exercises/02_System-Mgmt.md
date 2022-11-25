@@ -16,7 +16,7 @@ als Baum-Diagramm darzustellen.
 
 #### Aufgabenstellung
 1. Lesen Sie den Artikel &#8594;&nbsp;<a href="https://zoomadmin.com/HowToInstall/UbuntuPackage/tree" target="tab">How To Install "tree" Package on Ubuntu</a>.
-2. Setzen Sie die vorgeschlagene Massnahmen (Step 1+2 genügen) in Ihrem Ubuntu-Container um.
+2. Setzen Sie die vorgeschlagene Massnahmen (Answer 1 ohne sudo) in Ihrem Ubuntu-Container um.
 3. Lesen Sie den Artikel &#8594;&nbsp;<a href="https://www.tecmint.com/linux-tree-command-examples/" target="tab">Linux ‘tree Command’ Usage Examples for Beginners</a>.
 Erstellen Sie auf deren Basis folgende Ausgaben über das Verzeichnis <code>/var</code>:
    1. Geben Sie nur die Verzeichnisse <u>ohne</u> Pfad-Angabe aus.
@@ -27,7 +27,7 @@ Erstellen Sie auf deren Basis folgende Ausgaben über das Verzeichnis <code>/var
    6. Ermitteln Speicherbedarf auf Stufe 3 in __human-readable format__ und speichern Sie den Output in die Datei <code>/tmp/tree.txt</code>
 ___
 
-### Aufgabe 3: Editor installieren
+### Aufgabe 3: Editor installieren und anwenden
 #### Ausgangslage
 Dem Container fehlt den Editor <code>nano</code>, 
 um kleinere Dateien unkompliziert auf dem Server zu editieren.
