@@ -15,7 +15,7 @@ Dem Container fehlt das Kommando <code>tree</code>, um den Speicherbedarf eines 
 als Baum-Diagramm darzustellen.
 
 #### Aufgabenstellung
-1. Lesen Sie den Artikel &#8594;&nbsp;<a href="https://zoomadmin.com/HowToInstall/UbuntuPackage/tree" target="tab">How To Install "tree" Package on Ubuntu</a>.
+1. Lesen Sie den Artikel &#8594;&nbsp;<a href="https://askubuntu.com/questions/572093/how-to-install-tree-with-command-line" target="tab">How to install "tree" with command-line?</a>.
 2. Setzen Sie die vorgeschlagene Massnahmen (Answer 1 ohne sudo) in Ihrem Ubuntu-Container um.
 3. Lesen Sie den Artikel &#8594;&nbsp;<a href="https://www.tecmint.com/linux-tree-command-examples/" target="tab">Linux ‘tree Command’ Usage Examples for Beginners</a>.
 Erstellen Sie auf deren Basis folgende Ausgaben über das Verzeichnis <code>/var</code>:
