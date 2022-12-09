@@ -21,5 +21,5 @@ Hostname : system1
 IP Address : 10.0.0.1
 ```
 2. Verwenden Sie für den User Report geeignete, vordefinierte Shell-Variablen.
-3. Um die IP-Adresse zu ermitteln, können Sie das Beispiel aus 02/02_Exercises zurückgreifen.~~~~ 
+3. Um die IP-Adresse zu ermitteln, können Sie das Beispiel aus 02/02_Exercises zurückgreifen. 
 
