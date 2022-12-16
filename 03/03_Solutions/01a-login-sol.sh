@@ -23,8 +23,8 @@ fi
 # Ask passwort
 echo -n "Passwort: "
 read password
-echo ${passwort}
-if [[ -z ${passwort} ]]; then
+echo ${password}
+if [[ -z ${password} ]]; then
     echo "Passwort is null. Exit!"
     exit 3;
   else
